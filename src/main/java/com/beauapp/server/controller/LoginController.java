@@ -20,8 +20,6 @@ import com.beauapp.server.utilities.MD5PwdEncrption;
 import com.beauapp.server.utilities.Routers;
 import com.fasterxml.jackson.annotation.JsonRawValue;
 
-import java.util.Map;
-
 
 @Controller
 public class LoginController {

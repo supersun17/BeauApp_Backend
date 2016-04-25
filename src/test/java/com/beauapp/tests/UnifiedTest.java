@@ -13,9 +13,9 @@ public class UnifiedTest {
 
 	@Test
 	public void registerTest() throws IOException{
-		String email="test@hotmail.com";
-		String pwd="zxcvb";
-		String username="zct0";
+		String email="test@test.com";
+		String pwd="test";
+		String username="Ming Sun";
 		
 //		HttpClient httpclient = HttpClients.createDefault();
 //		HttpPost httppost = new HttpPost("http://localhost:8080/com.beauapp/reg");
